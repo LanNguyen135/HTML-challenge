@@ -15,7 +15,7 @@ Data Extraction and Transformation
 
 Data Analysis
 
-I conducted several analyses on the scraped Mars weather data to answer key questions and created data visualizations to support our findings.
+I conducted several analyses on the scraped Mars weather data to answer key questions and created data visualizations to support findings.
 The data was analyzed to answer the following questions:
 - How many months exist on Mars? 
 - How many Martian days' worth of data are there? 
